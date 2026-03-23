@@ -20,4 +20,6 @@ L'ambiance est très ludique avec un côté blagueur et un semblant de stress, a
 
 ### Sonore
 
+## Carte de l'environnement
+
 ## Schéma de programmation
