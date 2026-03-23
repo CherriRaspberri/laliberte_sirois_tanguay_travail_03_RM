@@ -1,5 +1,3 @@
-# laliberte_sirois_tanguay_travail_03_RM
-
 # KEEP STEALING AND STOP STALLING
 
 ## Résumé 
