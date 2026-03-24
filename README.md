@@ -17,6 +17,7 @@ L'ambiance est très ludique avec un côté blagueur et un semblant de stress, a
 ## Moodboard
 
 ### Visuel
+<img width="1535" height="1063" alt="moodboard_realite_mixte" src="https://github.com/user-attachments/assets/8cd46c7f-6d0b-4ddd-b3c1-e4ff899bb619" />
 
 ### Sonore
 Musique :
