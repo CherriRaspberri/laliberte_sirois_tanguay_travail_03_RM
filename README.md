@@ -19,6 +19,10 @@ L'ambiance est très ludique avec un côté blagueur et un semblant de stress, a
 ### Visuel
 
 ### Sonore
+Musique :
+
+Sound effects :
+
 
 ## Carte de l'environnement
 <img width="1090" height="758" alt="Screenshot 2026-03-24 130324" src="https://github.com/user-attachments/assets/d84b4d6b-c3a5-4bf4-8889-13d512389461" />
