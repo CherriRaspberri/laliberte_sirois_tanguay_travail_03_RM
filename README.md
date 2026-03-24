@@ -21,6 +21,7 @@ L'ambiance est très ludique avec un côté blagueur et un semblant de stress, a
 ### Sonore
 
 ## Carte de l'environnement
+<img width="1090" height="758" alt="Screenshot 2026-03-24 130324" src="https://github.com/user-attachments/assets/d84b4d6b-c3a5-4bf4-8889-13d512389461" />
 
 ## Schéma de programmation
 <img width="787" height="921" alt="laliberte_sirois_tanguay_schema_interactivite drawio" src="https://github.com/user-attachments/assets/78cca5ec-7c2e-4d69-8ada-6f0ddda4a29c" />
