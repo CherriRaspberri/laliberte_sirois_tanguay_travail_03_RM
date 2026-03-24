@@ -20,8 +20,14 @@ L'ambiance est très ludique avec un côté blagueur et un semblant de stress, a
 
 ### Sonore
 Musique :
+- [Musique d'ambiance](https://youtu.be/UWXEgj2tkLM?si=rvBV4jPh4PncA25I)
 
 Sound effects :
+- [Niveau gagné](https://youtu.be/rr5CMS2GtCY?si=ATR2G7_mOzs4puaH)
+- [Changement magique](https://youtu.be/H5CR1dNOA-I?si=3h0KBbg32adMPCLx)
+- [Tournevis](https://youtu.be/QHCE3BiKGHU?si=ofbhe7tC2OQgGOtx)
+- [Passage secret ouvert](https://youtu.be/6LUCJMScgaE?si=IFr9qe_Es7qWaWVy)
+- [Porte ouverte](https://youtu.be/AYvUZibCrks?si=-cL4Ok_pB5mDVi2X)
 
 
 ## Carte de l'environnement
