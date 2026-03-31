@@ -1,5 +1,7 @@
 # KEEP STEALING AND STOP STALLING
 
+[Lien Trello](https://trello.com/b/ZRGoGibj/lalibertesiroistanguayksassrm)
+
 ## Résumé 
 *KSaSS* est un jeu VR/RA multijoueur où deux joueurs incarnent des voleurs qui braquent un bureau d'un milliardaire, où un voleur joue en VR, tandis que l'autre joue sur le web.
 

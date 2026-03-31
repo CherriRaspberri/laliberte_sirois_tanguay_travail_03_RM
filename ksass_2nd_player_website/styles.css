@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    background-color: #1d1c1c;
+
+    overflow: hidden;
+}
+
+#bg-container {
+    width: 100%;
+    height: 100vh;
+
+    background-image: linear-gradient(90deg,rgba(43, 42, 42, 1) 0%, rgba(78, 78, 120, 1) 35%, rgba(182, 206, 209, 1) 100%), url('./site_bg.avif');
+
+    background-size: auto, cover;
+    background-position: right;
+    background-repeat: no-repeat;
+
+    background-blend-mode: overlay;
+}
+
+#pages-container {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+
+    overflow: hidden;
+}
+
+.page {
+    width: 600px;
+    height: 750px;
+    position: absolute;
+
+    background-color: #dfdfdf;
+
+    cursor: grab;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: 10px solid white;
+    box-shadow: 0 4px 8px rgba(0,0, 0, 0.2);
+
+    user-select: none;
+
+    color: #a04747;
+    font-size: 20px;
+
+    transition: transform 0.2s ease;
+    transform-origin: center;
+}
+.page:active {
+    cursor: grabbing;
+}
+
+
+
+@media (min-width: 1024px) {
+    #bg-container {
+        background-size: 50% 100%, 50% 100%;
+    }
+}
