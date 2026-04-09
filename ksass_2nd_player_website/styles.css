@@ -26,12 +26,19 @@ body {
     position: relative;
 
     overflow: hidden;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .page {
     width: 600px;
     height: 750px;
+    
     position: absolute;
+
+    transform: translate(-50%, -50%);
 
     background-color: #dfdfdf;
 
