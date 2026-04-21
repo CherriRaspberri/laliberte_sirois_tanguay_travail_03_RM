@@ -15,11 +15,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
         let activePage = null;
 
-        //Sets random rotation onload
-        const randomRotation = Math.floor(Math.random() * 30) - 15;
-        page.style.transform = `rotate(${randomRotation}deg)`;
-
-
         //Checks for mouse hold on object
         //Sets object for mouse drag
         page.addEventListener('mousedown', (e) => {
@@ -29,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 activePage = e.target;
 
                 //Lift page and straightens it (w/ transition)
-                page.style.transform = `scale(1.1) rotate(0deg)`;
+                page.style.transform = `scale(1.2) rotate(0deg)`;
                 page.style.transition = `transform 0.1s ease-out`;
                 page.style.boxShadow = `0 20px 40px rgba(0,0,0,0.3)`;
 
