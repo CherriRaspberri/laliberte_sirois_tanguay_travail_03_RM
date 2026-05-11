@@ -6,7 +6,7 @@ public class trial_book_script : MonoBehaviour
 {
     public HingeJoint bookHinge;
     public Animator targetAnimator;
-    public string triggerName = "StartAnimation";
+    public string triggerName;
     
     private bool hasTriggered = false;
 
@@ -16,7 +16,8 @@ public class trial_book_script : MonoBehaviour
         //hinge.angle returns the current rotation relative to the start position
         if (!hasTriggered && bookHinge.angle >= bookHinge.limits.max - 1f)
         {
-            //targetAnimator.SetTrigger(triggerName);
+            //Sets trigger for animation
+            targetAnimator.SetTrigger(triggerName);
             //Prevents the animation from firing every frame
             hasTriggered = true; 
             Debug.Log("Book Opened: Animation Triggered!");
