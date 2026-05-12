@@ -7,10 +7,10 @@ public class chargement_scene : MonoBehaviour
 {
     public Animator canvas ;
 
-public void onClick()
-{
+    public void onClick()
+    {
     StartCoroutine("chargerNiveau");
-}
+    }
 
     IEnumerator chargerNiveau()
     {
