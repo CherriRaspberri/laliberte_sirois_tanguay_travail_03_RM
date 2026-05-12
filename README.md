@@ -1,12 +1,12 @@
-# KEEP STEALING AND STOP STALLING
+# Pied-de-biche et Papier Bavard
 
 [Lien Trello](https://trello.com/b/ZRGoGibj/lalibertesiroistanguayksassrm)
 
 ## Résumé 
-*KSaSS* est un jeu VR/RA multijoueur où deux joueurs incarnent des voleurs qui braquent un bureau d'un milliardaire, où un voleur joue en VR, tandis que l'autre joue sur le web.
+*PBePB* est un jeu VR/RA multijoueur où deux joueurs incarnent des voleurs qui braquent un bureau d'un milliardaire, où un voleur joue en VR, tandis que l'autre joue sur le web.
 
 ## Description
-*KEEP STEALING AND STOP STALLING* est un jeu basé sur le multijoueur grandement inspiré par le jeu Keep Talking And Nobody Explodes. Chaque joueur incarne un voleur qui veut braquer le bureau d'un riche et célèbre milliardaire, mais où rien ne se passe comme prévu. Le bureau, truffé d'énigmes et de pièges, va tout faire pour empêcher les voleurs de partir avec son contenu.
+*Pied-de-biche et Papier Bavard* est un jeu basé sur le multijoueur grandement inspiré par le jeu Keep Talking And Nobody Explodes. Chaque joueur incarne un voleur qui veut braquer le bureau d'un riche et célèbre milliardaire, mais où rien ne se passe comme prévu. Le bureau, truffé d'énigmes et de pièges, va tout faire pour empêcher les voleurs de partir avec son contenu.
 
 ### Pour le voleur dans le bureau :
 L'expérience dans le bureau se passe en VR, où le joueur présent va devoir résoudre des énigmes en se déplaçant dans un univers en 3D.
