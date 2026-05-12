@@ -22,7 +22,7 @@ public void onClick()
     public void AllerAEchec(string gameOver)
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene("gameOver"); 
+        SceneManager.LoadScene(gameOver); 
     }
 
     public void RecommencerLeNiveau()
