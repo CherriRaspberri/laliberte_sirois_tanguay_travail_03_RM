@@ -19,7 +19,7 @@ public void onClick()
         yield break;
     }
 
-    public void AllerAEchec()
+    public void AllerAEchec(string gameOver)
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene("gameOver"); 
