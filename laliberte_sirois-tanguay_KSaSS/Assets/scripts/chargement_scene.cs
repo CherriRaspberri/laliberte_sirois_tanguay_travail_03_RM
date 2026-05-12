@@ -34,8 +34,12 @@ public class chargement_scene : MonoBehaviour
     
     public void AllerAReussi()
     {
-    Time.timeScale = 1f; // Relance le temps au cas où il était à 0
-    UnityEngine.SceneManagement.SceneManager.LoadScene("reussi");
+        Time.timeScale = 1f; // Relance le temps au cas où il était à 0
+        UnityEngine.SceneManagement.SceneManager.LoadScene("reussi");
     }
 
+    public void QuitterLeJeu()
+    {
+        Application.Quit();
+    }
 }
