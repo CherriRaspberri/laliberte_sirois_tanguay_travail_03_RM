@@ -26,6 +26,7 @@ public float tempsRestant = 300f; //(5 min) Temps en secondes
             {
                 tempsRestant = 0;
                 timerActif = false;
+                auTempsEcoule.Invoke();
             }
         }
     }
