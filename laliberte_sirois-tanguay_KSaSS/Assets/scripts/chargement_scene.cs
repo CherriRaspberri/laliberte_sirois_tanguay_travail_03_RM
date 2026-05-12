@@ -31,4 +31,11 @@ public class chargement_scene : MonoBehaviour
         string gameOver = SceneManager.GetActiveScene().name;
         SceneManager.LoadScene("game_scene");
     }
+    
+    public void AllerAReussi()
+    {
+    Time.timeScale = 1f; // Relance le temps au cas où il était à 0
+    UnityEngine.SceneManagement.SceneManager.LoadScene("reussi");
+    }
+
 }
