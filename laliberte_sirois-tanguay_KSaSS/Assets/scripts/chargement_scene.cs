@@ -18,4 +18,17 @@ public void onClick()
         SceneManager.LoadScene(1);
         yield break;
     }
+
+    public void AllerAEchec()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("gameOver"); 
+    }
+
+    public void RecommencerLeNiveau()
+    {
+        Time.timeScale = 1f; // Relance le temps au cas où il était à 0
+        string gameOver = SceneManager.GetActiveScene().name;
+        SceneManager.LoadScene("game_scene");
+    }
 }

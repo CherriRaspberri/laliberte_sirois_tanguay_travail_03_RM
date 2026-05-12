@@ -156,7 +156,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000026412, y: -4.9}
+  m_AnchoredPosition: {x: -0.0000026412, y: 10.1}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &70905331
@@ -195,8 +195,8 @@ MonoBehaviour:
 
     -Ne courez pas dans le jeu.'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 2519a700a14323b4693095f1b76d9518, type: 2}
-  m_sharedMaterial: {fileID: -3014648047528786369, guid: 2519a700a14323b4693095f1b76d9518, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: bc3b05fb9ede0174bbb57e934dc64469, type: 2}
+  m_sharedMaterial: {fileID: 3138571966969657209, guid: bc3b05fb9ede0174bbb57e934dc64469, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -220,8 +220,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 12
-  m_fontSizeBase: 12
+  m_fontSize: 10
+  m_fontSizeBase: 10
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2990,7 +2990,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.3, y: 0.000003835}
+  m_AnchoredPosition: {x: -0.3, y: -3}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1462093526
@@ -3021,8 +3021,8 @@ MonoBehaviour:
     avez vol\xE9 son journal intime ! \r\nVous attendez le bon moment \xE0 l'int\xE9rieur
     pour l'ouvrir.\r\n\r\nBonne chance !"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 2519a700a14323b4693095f1b76d9518, type: 2}
-  m_sharedMaterial: {fileID: -3014648047528786369, guid: 2519a700a14323b4693095f1b76d9518, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: bc3b05fb9ede0174bbb57e934dc64469, type: 2}
+  m_sharedMaterial: {fileID: 3138571966969657209, guid: bc3b05fb9ede0174bbb57e934dc64469, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3046,8 +3046,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 12
-  m_fontSizeBase: 12
+  m_fontSize: 9
+  m_fontSizeBase: 9
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3461,7 +3461,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000026412, y: 3.7}
+  m_AnchoredPosition: {x: -0.0000026412, y: 24}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1674731746
@@ -3547,7 +3547,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -9.326561, y: -82.35201, z: -8.923485, w: -76.227974}
+  m_margin: {x: -9.326561, y: -52.761932, z: -8.923485, w: 21.509298}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
